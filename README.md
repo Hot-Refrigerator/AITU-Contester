@@ -2,6 +2,10 @@
 
 # AITU-Contester
 
+![](https://img.shields.io/badge/language-C++-red.svg)
+![](https://img.shields.io/badge/%3C-awesome-green.svg)
+
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -11,6 +15,8 @@
     <li><a href="#disclaimer">Disclaimer</a></li>
   </ol>
 </details>
+
+---
 
 ## Getting Started
 
@@ -26,7 +32,9 @@ There will be published solutions to programming problems for beginners.
 
 1. On GitHub.com, navigate to the main page of the repository.
 
-2. In the top-right corner of the page, click **Star**. ![starring-a-repository](/other/starring-a-repository.png) [More...](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars)
+2. In the top-right corner of the page, click **Star**. ![starring-a-repository](/other/starring-a-repository.png)
+
+[More...](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
