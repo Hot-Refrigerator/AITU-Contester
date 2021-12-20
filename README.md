@@ -16,6 +16,10 @@
 
 There will be published solutions to programming problems for beginners.
 
+![background](/other/designecologist-Pmh0UoG1vlE-unsplash.jpg)
+
+<!--Source: https://unsplash.com/photos/Pmh0UoG1vlE-->
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Add a project to bookmarks
